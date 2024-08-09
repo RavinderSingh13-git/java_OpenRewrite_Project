@@ -3,7 +3,7 @@ package com.sharma.accounts.entity;
 //import javax.persistence.*;
 import lombok.*;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 @Entity
 
